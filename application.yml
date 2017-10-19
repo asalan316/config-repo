@@ -5,7 +5,7 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://serviceuser:servicepassword@service-registry-ecoles.cfapps.io/eureka
+      defaultZone:  http://admin:admin@eureka-serverv1.cfapps.io/eureka
 
 ---
 
