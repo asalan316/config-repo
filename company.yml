@@ -4,4 +4,9 @@
 spring:
   profiles: cloud
 
-message: I am company yml under cloud profile  
+message: I am company yml under cloud profile
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://admin:admin@eureka-serverv1.cfapps.io/eureka
