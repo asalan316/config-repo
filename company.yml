@@ -4,5 +4,5 @@
 spring:
   profiles: cloud
 
-message: I am company yml under cloud profile
+message: I am company yml under cloud profile. Now v1 of the config
 
