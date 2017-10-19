@@ -1,5 +1,7 @@
 --- 
 
 
-message: I am company yml
-  
+spring:
+  profiles: cloud
+
+message: I am company yml under cloud profile  
